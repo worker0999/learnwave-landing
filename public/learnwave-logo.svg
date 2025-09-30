@@ -1,0 +1,59 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain/Wave Design -->
+  <g transform="translate(20, 15)">
+    <!-- Brain outline with wave pattern -->
+    <path d="M15 25 C5 25, 0 30, 0 40 C0 50, 5 55, 15 55 C20 55, 25 52, 28 48 C30 45, 32 42, 35 40 C38 38, 40 35, 42 32 C44 29, 46 27, 49 25 C52 23, 55 22, 58 22 C61 22, 64 23, 67 25 C70 27, 72 29, 74 32 C76 35, 78 38, 81 40 C84 42, 86 45, 88 48 C91 52, 96 55, 101 55 C111 55, 116 50, 116 40 C116 30, 111 25, 101 25" 
+          fill="none" 
+          stroke="#1e40af" 
+          stroke-width="2.5"/>
+    
+    <!-- Wave patterns inside brain -->
+    <path d="M10 35 Q20 30, 30 35 T50 35" 
+          fill="none" 
+          stroke="#3b82f6" 
+          stroke-width="2" 
+          opacity="0.8"/>
+    <path d="M15 42 Q25 37, 35 42 T55 42" 
+          fill="none" 
+          stroke="#3b82f6" 
+          stroke-width="2" 
+          opacity="0.8"/>
+    <path d="M20 48 Q30 43, 40 48 T60 48" 
+          fill="none" 
+          stroke="#3b82f6" 
+          stroke-width="2" 
+          opacity="0.8"/>
+    
+    <!-- Orange accent wave -->
+    <path d="M65 35 Q75 30, 85 35 T105 35" 
+          fill="none" 
+          stroke="#f97316" 
+          stroke-width="2" 
+          opacity="0.8"/>
+    <path d="M70 42 Q80 37, 90 42 T110 42" 
+          fill="none" 
+          stroke="#f97316" 
+          stroke-width="2" 
+          opacity="0.8"/>
+  </g>
+  
+  <!-- LearnWave Text -->
+  <text x="145" y="35" 
+        font-family="Arial, sans-serif" 
+        font-size="18" 
+        font-weight="bold" 
+        fill="#1e40af" 
+        text-anchor="middle">
+    LearnWave
+  </text>
+  
+  <!-- SINCE2025 Text -->
+  <text x="145" y="52" 
+        font-family="Arial, sans-serif" 
+        font-size="10" 
+        font-weight="normal" 
+        fill="#6b7280" 
+        text-anchor="middle">
+    SINCE2025
+  </text>
+</svg>
